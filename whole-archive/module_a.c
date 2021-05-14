@@ -1,7 +1,7 @@
 #include "modules.h"
 #include <stdio.h>
 
-modules_list_t moduleA = {
+static modules_list_t moduleA = {
     .name = "module_A",
     .next = 0,
 };
