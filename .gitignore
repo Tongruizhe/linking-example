@@ -1,0 +1,4 @@
+*.a
+*.o
+whole-archive/error_prog
+whole-archive/ok_prog
