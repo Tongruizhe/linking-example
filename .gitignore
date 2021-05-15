@@ -1,4 +1,8 @@
 *.a
 *.o
+*.S
+
 whole-archive/error_prog
 whole-archive/ok_prog
+
+pie/test_prog
